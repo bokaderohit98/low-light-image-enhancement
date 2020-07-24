@@ -5,9 +5,9 @@
 
 ## Getting started
 
-### 1. Install Dependencies
+### 1. Install Dependenciesconda 
 
-`pip install -r requirements.txt`
+`conda create --name <env_name> --file requirements.txt`
 
 
 ### 2. Start development server
@@ -30,5 +30,5 @@
 - Endpoint to serve static files
 - path_name is the path to any static file on server
 
-### /api?pixify=value
+### /api
 - Api endpoint to Enlighten an image.
