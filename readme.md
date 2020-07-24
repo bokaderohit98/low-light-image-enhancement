@@ -1,7 +1,6 @@
 # P!XAR
 
-###### The project aims at colorizing black and white pictures using deep-learning, more specifically by making use of U-Net architecture and LAB color format.
-
+###### The project aims at enhancing the quality of low light images and reduce noise in those images.
 
 ## Getting started
 
